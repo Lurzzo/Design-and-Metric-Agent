@@ -86,3 +86,6 @@ Antes de começar, certifique-se de ter instalado:
     globals.css    # Estilos Globais (Tema Premium)
 ```
 
+<img width="1338" height="889" alt="image" src="https://github.com/user-attachments/assets/bb9f5f2e-0036-44db-aad1-f4454be8e06f" />
+
+
