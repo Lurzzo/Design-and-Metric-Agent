@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 
-Uma aplicação web moderna impulsionada por IA para acelerar a ideação e prototipagem de Provas de Conceito (PoCs) de inovação. Este agente inteligente ajuda a estruturar o escopo técnico e definir frameworks de mensuração de sucesso em segundos.
+Uma aplicação web IA para acelerar a ideação e prototipagem de Provas de Conceito (PoCs) de inovação. Este agente inteligente ajuda a estruturar o escopo técnico e definir frameworks de mensuração de sucesso.
 
 ## 🚀 Funcionalidades
 
